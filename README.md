@@ -35,8 +35,7 @@ Publish the website in the given URL.
 ~~~
 app.component.html
 Math Calculations
-Developed By V.NAVYA
-Developed By V.NAVYA
+Developed By: JOANS JAI AUTHERS.A
 app.component.css
 { box-sizing:border-box; font-family: Arial, Helvetica, sans-serif; } body { background-color:rgb(84, 8, 87); } .container { width:1080px; margin-left: auto; margin-right: auto; padding-left: 300px; max-height:max-content; background-color:rgb(84, 8, 87); padding-bottom: 45px; ; } .content { display:block; width: 500px; background-color:rgb(236, 79, 215); min-height: 150px; font-size: 20px; position:relative;
 
